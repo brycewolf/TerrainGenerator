@@ -1,0 +1,29 @@
+﻿  ProceduralTerrain.cpp
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(149): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(152): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(169): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(173): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(176): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(182): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(190): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(193): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(202): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(216): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(224): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(227): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(232): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(235): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(242): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(244): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(267): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(278): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\flogn\documents\purdue\2017 fall\cs334\final project\proceduralterrain\proceduralterrain\proceduralterrain.cpp(314): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProceduralTerrain.vcxproj -> C:\Users\flogn\Documents\Purdue\2017 Fall\CS334\Final Project\ProceduralTerrain\Debug\ProceduralTerrain.exe
